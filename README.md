@@ -1,2 +1,2 @@
 # Information-Retrieval-Encoding-Algorithm
-Encryption and decryption algorithm for information retrieval, @UNSW COMP6714
+Encryption and decryption algorithm for information retrieval, COMP6714@UNSW
